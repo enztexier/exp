@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "expression": "Coup de chapeau",
+        "signification": "Félicitations, salutations, remerciements.",
+        "origine":"Tout comme chapeau bas, l'expression tire son origine de l'usage consistant à se découvrir le chef pour manifester son respect. L'expression peut ainsi désigner un salut, un remerciement, des félicitations ou l'admiration.",
+        "categorie":"Succès - échecs"
+    },
+    {
+        "id": "2",
+        "expression": "Broche à foin",
+        "signification": "Action réalisée de façon désordonnée, confuse.",
+        "origine":"Locution adverbiale familière d'origine québécoise. Désigne une action réalisée sans aucune logique, de façon désorganisée et confuse. Cette expression renvoie à la notion de faiblesse d'appréhension d'une situation, de manque de discernement dans l'analyse.",
+        "categorie":"Forces Et Faiblesses"
+    },
+    {
+        "id": "3",
+        "expression": "À pas de velours",
+        "signification": "Silencieusement, sur la pointe des pieds pour ne pas faire de bruit.",
+        "origine":"L'origine de cette expression nous viendrait du règne animal puisque les pas de velours dont il est question seraient ceux du chat. Avec ses coussinets à la peau si douce, celui-ci avance effectivement sans faire de bruit. L'expression, en général associée aux verbes avancer et marcher, signifie donc que l'on se déplace sans faire le moindre bruit.",
+        "categorie":"Intentions"
+    }
+]
