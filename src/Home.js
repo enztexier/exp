@@ -14,3 +14,18 @@ const Home = () => {
 };
 
 export default Home;
+
+/** 
+ 
+JSON STRUCTURE
+
+    {
+        "id": "",
+        "expression": "",
+        "signification": "",
+        "origine":"",
+        "categorie":""
+    },
+
+
+ * **/

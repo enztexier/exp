@@ -4,7 +4,7 @@
         "expression": "Coup de chapeau",
         "signification": "Félicitations, salutations, remerciements.",
         "origine":"Tout comme chapeau bas, l'expression tire son origine de l'usage consistant à se découvrir le chef pour manifester son respect. L'expression peut ainsi désigner un salut, un remerciement, des félicitations ou l'admiration.",
-        "categorie":"Succès - échecs"
+        "categorie":"AA"
     },
     {
         "id": "2",
@@ -19,5 +19,40 @@
         "signification": "Silencieusement, sur la pointe des pieds pour ne pas faire de bruit.",
         "origine":"L'origine de cette expression nous viendrait du règne animal puisque les pas de velours dont il est question seraient ceux du chat. Avec ses coussinets à la peau si douce, celui-ci avance effectivement sans faire de bruit. L'expression, en général associée aux verbes avancer et marcher, signifie donc que l'on se déplace sans faire le moindre bruit.",
         "categorie":"Intentions"
+    },
+    {
+        "id": "4",
+        "expression": "Bec fin",
+        "signification": "Personne exigeante en cuisine, gourmet.",
+        "origine":"Le bec se rapporte à la bouche, le mot fin à la délicatesse. Un bec fin affiche certaines exigences gastronomiques. Si elle désignait à l'époque un consommateur difficile, elle se rapporte le plus souvent, de nos jours, à un connaisseur éclairé, un gourmet.",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "5",
+        "expression": "Emporter la bouche",
+        "signification": "Causer une sensation de brûlure dans la bouche.",
+        "origine":"Utilisée lorsqu'un aliment est très épicé ou une boisson est très forte, cette expression doit sa signification à l'un des sens figurés du verbe -emporter- qui veut dire -détruire-.",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "6",
+        "expression": "Amour blanc",
+        "signification": "Nom donné à un poisson à la chair blanche, la carpe.",
+        "origine":"En pisciculture, l'amour blanc est le nom donné à une espèce de carpe herbivore, d'origine chinoise. On la retrouve ensuite dans les pays de l'Est. On la surnomme ainsi, car elle provient du fleuve Amur, et que sa chair est blanche. Elle a été découverte au XIXe siècle.",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "7",
+        "expression": "Âge canonique",
+        "signification": "Se dit de quelqu'un d'âge mûr et respectable.",
+        "origine":"L'adjectif canonique dérive de son sens original, strictement réservé aux hommes d'Église. Il désigne l'âge minimum de quarante ans conforme aux canons de l'Église requis pour que les servantes puissent se mettre au service des ecclésiastiques.",
+        "categorie":"Temps Qui Passe"
+    },
+    {
+        "id": "8",
+        "expression": "Arroser ses créanciers",
+        "signification": "Payer de petites sommes pour faire patienter ses créanciers.",
+        "origine":"Déjà définie dans le -Dictionnaire universel de l'Académie française- de 1835, l'expression consiste en l'action de payer de petites sommes, souvent dérisoires, à des personnes qui ont prêté de l'argent, pour les faire attendre.",
+        "categorie":"Argent"
     }
 ]

@@ -102,18 +102,20 @@ const All = () => {
             <h1>ALL</h1>
 
             {exp.length === history.length && indexArray > history.length ?
-                <h1 className='lineUp' >FINISH</h1>
+                <h1>FINITO</h1>
                 :
                 <div>
-                    <h1 className='lineUp' key={single.id}>{single.expression}</h1>
+                    <h1 key={single.id}>{single.expression}</h1>
                     <h2>{single.signification}</h2>
+                    <br></br>
+                    <h2>{single.origine}</h2>
                 </div>
             }
 
 
 
             <div>
-                { indexArray > 1 && <button onClick={() => prevQuote()}>prev</button>}
+                {indexArray > 1 && <button onClick={() => prevQuote()}>prev</button>}
 
                 {exp.length === history.length && indexArray > history.length ? '' : <button onClick={() => nextQuote()}>next</button>}
 
