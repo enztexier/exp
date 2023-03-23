@@ -24,8 +24,6 @@ export default Category;
 
 /****
  * 
-
-
             {primaryCategory.map((Val, id) => {
           return (
             <button className="menu_button"
