@@ -5,8 +5,6 @@ import Data from "./Data.json";
 const Category = () => {
 
     const primaryCategory = [...new Set(Data.map((Val) => Val.categorie))];
-    console.log(primaryCategory)
-    console.log(primaryCategory.length)
     const listItems = primaryCategory.map((number) =>
     <h2 key={number}><Link to={`/selection/${number}`}>{number}</Link></h2>
     );
