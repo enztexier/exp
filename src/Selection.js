@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import Data from "./Data.json";
 import { Link } from 'react-router-dom';
 import { useEffect, useState } from 'react';
+import './Selection.css';
 
 
 const Selection = () => {
@@ -74,11 +75,19 @@ const Selection = () => {
             {exp.length === history.length && indexArray > history.length ?
                 <h1>FINITO</h1>
                 :
-                <div>
-                    <h1 key={single.id}>{single.expression}</h1>
-                    <h2>{single.signification}</h2>
-                    <br></br>
-                    <h2>{single.origine}</h2>
+                <div className='card'>
+                    <div className='front'>
+                        <div className='contents'>
+                            <h2 className='title' key={single.id}>{single.expression}</h2>
+                        </div>
+                    </div>
+                    <div className='back'>
+                        <div className='contents'>
+                            <h3 className='subtitle'>{single.signification}</h3>
+                            <h4>{single.origine}</h4>
+
+                        </div>
+                    </div>
                 </div>
             }
 

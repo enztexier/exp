@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  width: 100vh;
+  font-family: "Source Sans Pro", sans-serif;
+  background: #eee;
+  background-image: linear-gradient(45deg, rgba(255, 158, 128, 0.7), rgba(98, 0, 234, 0.8));
 }
 
 code {

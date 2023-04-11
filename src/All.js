@@ -67,16 +67,29 @@ const All = () => {
             <Link to="/">HOME</Link>
             <h1>ALL</h1>
 
+
+
             {exp.length === history.length && indexArray > history.length ?
                 <h1>FINITO</h1>
                 :
-                <div>
-                    <h1 key={single.id}>{single.expression}</h1>
-                    <h2>{single.signification}</h2>
-                    <br></br>
-                    <h2>{single.origine}</h2>
+                <div className='card'>
+                    <div className='front'>
+                        <div className='contents'>
+                            <h2 className='title' key={single.id}>{single.expression}</h2>
+                        </div>
+                    </div>
+                    <div className='back'>
+                        <div className='contents'>
+                            <h3 className='subtitle'>{single.signification}</h3>
+                            <h4>{single.origine}</h4>
+
+                        </div>
+                    </div>
                 </div>
             }
+
+
+
 
             <div>
                 {indexArray > 1 && <button onClick={() => prevQuote()}>prev</button>}

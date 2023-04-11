@@ -4,7 +4,7 @@
         "expression": "Coup de chapeau",
         "signification": "Félicitations, salutations, remerciements.",
         "origine":"Tout comme chapeau bas, l'expression tire son origine de l'usage consistant à se découvrir le chef pour manifester son respect. L'expression peut ainsi désigner un salut, un remerciement, des félicitations ou l'admiration.",
-        "categorie":"AA"
+        "categorie":"Succès - échecs"
     },
     {
         "id": "2",
@@ -59,7 +59,7 @@
         "id": "9",
         "expression": "Abaisser le plafond",
         "signification": "Diminuer la limite, modifier la limite par le bas.",
-        "origine":"Née au XXe siècle, cette expression est d'origine inconnue et s'emploie assez rarement pour signifier -Réduire la limite-.",
+        "origine":"Née au XXe siècle, cette expression est d'origine inconnue et s'emploie assez rarement pour signifier \"Réduire la limite\".",
         "categorie":"Parole"
     },
     {
@@ -80,14 +80,14 @@
         "id": "12",
         "expression": "À bas",
         "signification": "Personnes ou choses qui tombent, que l'on renverse, que l'on abat.",
-        "origine":"Cette locution porte ses origines dans les manifestations populaires. Elle revendique la mort d'une personne ou le changement de quelque chose, d'un régime, d'une idée, d'un principe... -A bas le roi, vive le roi-. -A bas les idées toutes faites-.",
+        "origine":"Cette locution porte ses origines dans les manifestations populaires. Elle revendique la mort d'une personne ou le changement de quelque chose, d'un régime, d'une idée, d'un principe... \"A bas le roi, vive le roi\". \"A bas les idées toutes faites\".",
         "categorie":"Société"
     },
     {
         "id": "13",
         "expression": "A bâtons rompus",
         "signification": "Avec des arrêts réguliers, qui est saccadé.",
-        "origine":"L'origine de cette expression reste floue. Cependant, certains pensent qu'elle date du Moyen Age. En effet, à cette période, -bâtons rompus- renvoyait à des tapisseries ayant des bâtons entremêlés en motifs. Mais il est plus probable que cette expression vienne de la fanfare militaire où elle signifiait donner deux coups de baguettes successifs sur un tambour.",
+        "origine":"L'origine de cette expression reste floue. Cependant, certains pensent qu'elle date du Moyen Age. En effet, à cette période, \"bâtons rompus\" renvoyait à des tapisseries ayant des bâtons entremêlés en motifs. Mais il est plus probable que cette expression vienne de la fanfare militaire où elle signifiait donner deux coups de baguettes successifs sur un tambour.",
         "categorie":""
     },
     {
@@ -129,14 +129,14 @@
         "id": "19",
         "expression": "ab intestat",
         "signification": "Être mort sans testament.",
-        "origine":"L'expression latine est -ab intestato- et signifie : - du fait de (quelqu'un) qui n'a pas testé - c'est-à-dire - sans testament-. Elle est composée de ab - du fait de -, et de intestatus -qui n'a pas testé-. Exclusivement utilisée en droit, elle signifie que si aucun testament n'a été fait, les biens du disparu tombent en déshérence.",
+        "origine":"L'expression latine est \"ab intestato\" et signifie : \" du fait de (quelqu'un) qui n'a pas testé \" c'est-à-dire \"sans testament\". Elle est composée de ab \"du fait de\", et de intestatus \"qui n'a pas testé\". Exclusivement utilisée en droit, elle signifie que si aucun testament n'a été fait, les biens du disparu tombent en déshérence.",
         "categorie":"Argent"
     },
     {
         "id": "20",
         "expression": "À blanc",
         "signification": "Faire quelque chose sans aucune conséquence.",
-        "origine":"L'origine de l'expression -A blanc- vient du domaine de l'armement. Pour s'entraîner, les militaires utilisent des munitions -A blanc-. C'est une poudre et une bourre légère totalement inoffensive qui n'est destinée qu'à faire du bruit.",
+        "origine":"L'origine de l'expression \"A blanc\" vient du domaine de l'armement. Pour s'entraîner, les militaires utilisent des munitions \"A blanc\". C'est une poudre et une bourre légère totalement inoffensive qui n'est destinée qu'à faire du bruit.",
         "categorie":"Intentions"
     },
     {
@@ -150,7 +150,7 @@
         "id": "22",
         "expression": "A bon chat bon rat",
         "signification": "Les adversaires sont de force égale.",
-        "origine":"On emploie cette expression depuis le XVIe siècle. Ici le chat représente le chasseur futé, face auquel le rat devra s'adapter pour ne pas se laisser attraper. Il deviendra ainsi lui aussi très habile. Autrement dit, -l'élève égalera le maître-. On employait également au tout début du XVIIe siècle -à bon assailleur bon défendeur-. L'expression signifie qu'un combat est juste dans la mesure où les adversaires sont de force égale.",
+        "origine":"On emploie cette expression depuis le XVIe siècle. Ici le chat représente le chasseur futé, face auquel le rat devra s'adapter pour ne pas se laisser attraper. Il deviendra ainsi lui aussi très habile. Autrement dit, \"l'élève égalera le maître\". On employait également au tout début du XVIIe siècle \"à bon assailleur bon défendeur\". L'expression signifie qu'un combat est juste dans la mesure où les adversaires sont de force égale.",
         "categorie":"Conflit"
     },
     {
@@ -164,42 +164,42 @@
         "id": "24",
         "expression": "À bon droit",
         "signification": "Être dans son droit.",
-        "origine":"L'expression -A bon droit- puise son origine dans la justice. Elle exprime une demande légitime avec raison de faire respecter son droit. -A bon droit, il a fait entendre son mécontentement suite au changement de planning-.",
+        "origine":"L'expression \"A bon droit\" puise son origine dans la justice. Elle exprime une demande légitime avec raison de faire respecter son droit. \"A bon droit, il a fait entendre son mécontentement suite au changement de planning\".",
         "categorie":"Jugement"
     },
     {
         "id": "25",
         "expression": "A bon entendeur, salut !",
         "signification": "Celui qui a bien compris ce qui a été dit est alors prévenu, à lui de faire attention.",
-        "origine":"Cette expression remonte au XVIIème siècle. Le mot entendre signifiait à l'époque -comprendre- et le salut se traduirait plutôt par le fait de se soustraire à un danger. Il s'agit donc bel et bien d'une expression qui met en garde. Elle est beaucoup utilisée dans le jargon militaire où la hiérarchie est très importante.",
+        "origine":"Cette expression remonte au XVIIème siècle. Le mot entendre signifiait à l'époque \"comprendre\" et le salut se traduirait plutôt par le fait de se soustraire à un danger. Il s'agit donc bel et bien d'une expression qui met en garde. Elle est beaucoup utilisée dans le jargon militaire où la hiérarchie est très importante.",
         "categorie":"état D'esprit"
     },
     {
         "id": "26",
         "expression": "A bon escient",
         "signification": "De la manière qu'il faut, à juste titre, avec discernement.",
-        "origine":"Cette expression est étroitement liée au verbe latin scire qui signifie -savoir-. En effet, elle suggère que l'on agit en connaissance de cause. Au XIIème siècle on utilisait l'expression -à mon escient- pour dire en connaissance de cause. Il semblerait donc que ce soit cette dernière qui a évolué pour donner l'expression -à bon escient- qui suit toujours la même logique.",
+        "origine":"Cette expression est étroitement liée au verbe latin scire qui signifie \"savoir\". En effet, elle suggère que l'on agit en connaissance de cause. Au XIIème siècle on utilisait l'expression -à mon escient- pour dire en connaissance de cause. Il semblerait donc que ce soit cette dernière qui a évolué pour donner l'expression \"à bon escient\" qui suit toujours la même logique.",
         "categorie":"Opinion"
     },
     {
         "id": "27",
         "expression": "A bonne école",
         "signification": "Dans un milieu instructif, voire, formateur.",
-        "origine":"Dans cette expression déjà présente au XIIème siècle, -école- a le sens d'-influence-, de -formation-. A cette époque, -mener à dure escole- voulait dire diriger d' une main de fer.",
+        "origine":"Dans cette expression déjà présente au XIIème siècle, \"école\" a le sens d'influence, de formation. A cette époque, \"mener à dure escole\" voulait dire diriger d' une main de fer.",
         "categorie":""
     },
     {
         "id": "28",
         "expression": "A bouche que veux-tu",
         "signification": "En grande quantité, copieusement.",
-        "origine":"Cette expression remonte du milieu du XVIIème siècle. A première vue, l'étrange forme de cette expression peut nous interpeler. Cette expression a, d'ailleurs, pris d'autres formes. En effet, on disait -être à bouche que veux-tu- pour dire -avoir tout ce que l'on désire-.",
+        "origine":"Cette expression remonte du milieu du XVIIème siècle. A première vue, l'étrange forme de cette expression peut nous interpeler. Cette expression a, d'ailleurs, pris d'autres formes. En effet, on disait \"être à bouche que veux-tu\" pour dire \"avoir tout ce que l'on désire\".",
         "categorie":""
     },
     {
         "id": "29",
         "expression": "À bout de bras",
         "signification": "Réaliser quelque chose de difficile, seul.",
-        "origine":"L'origine de cette expression vient du fait que porter quelque chose à bout de bras (bras tendu) est très difficile. Ne pas lâcher, ne pas laisser tomber une chose portée à bout de bras demande de la ténacité. Il veut réaliser ses rêves, il les porte -A bout de bras-.",
+        "origine":"L'origine de cette expression vient du fait que porter quelque chose à bout de bras (bras tendu) est très difficile. Ne pas lâcher, ne pas laisser tomber une chose portée à bout de bras demande de la ténacité. Il veut réaliser ses rêves, il les porte \"A bout de bras\".",
         "categorie":"Courage"
     },
     {
@@ -213,14 +213,14 @@
         "id": "31",
         "expression": "A bout portant",
         "signification": "De manière très proche.",
-        "origine":"Rattachée au vocabulaire des armes à feu, l’expression -tirer à bout portant- témoigne de la proximité entre le bout de l’arme et la victime, presque touchée par le canon. À bout portant est donc quelque chose se situant à une proximité extrême.",
+        "origine":"Rattachée au vocabulaire des armes à feu, l’expression \"tirer à bout portant\" témoigne de la proximité entre le bout de l’arme et la victime, presque touchée par le canon. À bout portant est donc quelque chose se situant à une proximité extrême.",
         "categorie":"Apparences"
     },
     {
         "id": "32",
         "expression": "À bout touchant",
         "signification": "Une chose ou une personne qui est très près.",
-        "origine":"L'origine de l'expression -A bout touchant- vient du domaine de la balistique. Un tir exécuté la bouche du canon touchant la cible est dit -Tir à bout touchant-. Terme employé par la gendarmerie pour désigner un suicide par arme à feu.",
+        "origine":"L'origine de l'expression \"A bout touchant\" vient du domaine de la balistique. Un tir exécuté la bouche du canon touchant la cible est dit \"Tir à bout touchant\". Terme employé par la gendarmerie pour désigner un suicide par arme à feu.",
         "categorie":"Parole"
     },
     {
@@ -234,7 +234,7 @@
         "id": "34",
         "expression": "A bras le corps",
         "signification": "Affronter un adversaire ou une difficulté.",
-        "origine":"Au XVe siècle, cette expression se rencontrait sous la forme -à bon braz le corps-. Le -corps- représentant le torse, c'est surtout dans la lutte que l'on employait ce terme pour figurer qu'un des combattants attrapait son rival par le torse, donc entièrement. On trouve également dans cette formulation une certaine idée de volonté et de détermination. C'est pourquoi on l'utilise de nos jours pour figurer qu'une personne fait face à un ennemi ou à des difficultés, qu'elle ne les évite pas.",
+        "origine":"Au XVe siècle, cette expression se rencontrait sous la forme \"à bon braz le corps\". Le \"corps\" représentant le torse, c'est surtout dans la lutte que l'on employait ce terme pour figurer qu'un des combattants attrapait son rival par le torse, donc entièrement. On trouve également dans cette formulation une certaine idée de volonté et de détermination. C'est pourquoi on l'utilise de nos jours pour figurer qu'une personne fait face à un ennemi ou à des difficultés, qu'elle ne les évite pas.",
         "categorie":"Conflit"
     },
     {
@@ -255,21 +255,21 @@
         "id": "37",
         "expression": "À charge de revanche",
         "signification": "A condition de rendre la pareille, d'être payé de retour.",
-        "origine":"Vient de l'ancien verbe -carger- qui signifiait mettre dans un chariot, imposer une charge et de l'ancien verbe -revancher- qui signifiait se venger, réclamer justice ou rendre un bien. A charge de revanche signifie littéralement s'obliger ou obliger quelqu'un à rendre la pareille.",
+        "origine":"Vient de l'ancien verbe \"carger\" qui signifiait mettre dans un chariot, imposer une charge et de l'ancien verbe \"revancher\" qui signifiait se venger, réclamer justice ou rendre un bien. A charge de revanche signifie littéralement s'obliger ou obliger quelqu'un à rendre la pareille.",
         "categorie":"Confiance"
     },
     {
         "id": "38",
         "expression": "A contrecoeur",
         "signification": "Contre son envie.",
-        "origine":"Faire quelque chose -à contrecoeur- signifie qu'on le fait sans en avoir envie. La forme ancienne, datant du XIIIe siècle en était -contre son coeur-. Le coeur symbolise donc ici les désirs et les envies.",
+        "origine":"Faire quelque chose \"à contrecoeur\" signifie qu'on le fait sans en avoir envie. La forme ancienne, datant du XIIIe siècle en était \"contre son coeur\". Le coeur symbolise donc ici les désirs et les envies.",
         "categorie":"Volonté"
     },
     {
         "id": "39",
         "expression": "A cor et à cri",
         "signification": "Bruyamment, à grand bruit, avec une très grande insistance.",
-        "origine":"Cette expression apparait au XVème siècle, lorsque l'on disait -à cry et à cor-. A cette époque, on chassait en jouant du cor et en poussant des cris. C'est cette pratique qui a donné naissance à notre expression.",
+        "origine":"Cette expression apparait au XVème siècle, lorsque l'on disait \"à cri et à cor\". A cette époque, on chassait en jouant du cor et en poussant des cris. C'est cette pratique qui a donné naissance à notre expression.",
         "categorie":""
     },
     {
@@ -283,21 +283,21 @@
         "id": "41",
         "expression": "À dache",
         "signification": "Très loin, à perpète les oies.",
-        "origine":"Expression familière qui remonte au XIXe siècle. On la trouve chez de nombreux auteurs comme Louis-Ferdinand Céline ou Paul de Sémant, elle signifie -très loin-, dans un endroit isolé, loin de tout. Elle peut aussi signifier -au diable-.",
+        "origine":"Expression familière qui remonte au XIXe siècle. On la trouve chez de nombreux auteurs comme Louis-Ferdinand Céline ou Paul de Sémant, elle signifie \"très loin\", dans un endroit isolé, loin de tout. Elle peut aussi signifier \"au diable\".",
         "categorie":"Société"
     },
     {
         "id": "42",
         "expression": "ad augusta per angusta",
         "signification": "La gloire ne s'acquiert pas avec facilité.",
-        "origine":"Expression latine venant du sens d'-augusta-. En effet, ce mot tire son origine de l'empereur romain Auguste, célèbre pour la paix qu'il a réinstaurée à Rome et son règne glorieux. Pourtant, pour accéder au pouvoir, il est passé par des chemins tortueux : participation au complot contre Jules César, élimination de ses rivaux politiques, profit de la guerre civile...",
+        "origine":"Expression latine venant du sens d'\"augusta\". En effet, ce mot tire son origine de l'empereur romain Auguste, célèbre pour la paix qu'il a réinstaurée à Rome et son règne glorieux. Pourtant, pour accéder au pouvoir, il est passé par des chemins tortueux : participation au complot contre Jules César, élimination de ses rivaux politiques, profit de la guerre civile...",
         "categorie":"Difficultés"
     },
     {
         "id": "43",
         "expression": "A Dieu ne plaise !",
         "signification": "Que cela ne survienne.",
-        "origine":"Cette expression remonte au XIème siècle, on la retrouvait dans la chanson de Roland sous la forme -ne placet deu- qui signifie -que cela ne plaise à Dieu-. Cette expression s'emploie donc lorsque l'on ne veut pas qu'une chose arrive.",
+        "origine":"Cette expression remonte au XIème siècle, on la retrouvait dans la chanson de Roland sous la forme \"ne placet deu\" qui signifie \"que cela ne plaise à Dieu\". Cette expression s'emploie donc lorsque l'on ne veut pas qu'une chose arrive.",
         "categorie":""
     },
     {
@@ -311,7 +311,7 @@
         "id": "45",
         "expression": "Adieu veau, vache, cochon, couvée !",
         "signification": "Locution qui exprime une déception, une désillusion, lorsque ce qu'on espère ne se réalise pas.",
-        "origine":"Cette expression est originaire d'une fable de Jean de la Fontaine intitulée -La laitière et le pot au lait-. Dans cette fable, une fermière part vendre son lait au marché. En chemin, elle se met à rêver de l'argent qu’elle va gagner. Elle s'imagine qu'elle va pouvoir acheter des oeufs qui vont lui permettre de faire une couvée. Cette couvée lui permettra ensuite de vendre des poulets et d'acheter un cochon. Une fois le cochon revendu, elle sera alors en mesure d'acheter une vache et un veau. Mais sur le chemin, Perrette fait un faux pas et laisse tomber son pot de lait. Contrairement à ce qu'elle espérait elle ne pourra donc obtenir ni veau, ni vache, ni cochon ou couvée, d'où l'expression -adieu veau, cache, cochon, couvée- qui signifie la perte des illusions.",
+        "origine":"Cette expression est originaire d'une fable de Jean de la Fontaine intitulée \"La laitière et le pot au lait\". Dans cette fable, une fermière part vendre son lait au marché. En chemin, elle se met à rêver de l'argent qu’elle va gagner. Elle s'imagine qu'elle va pouvoir acheter des oeufs qui vont lui permettre de faire une couvée. Cette couvée lui permettra ensuite de vendre des poulets et d'acheter un cochon. Une fois le cochon revendu, elle sera alors en mesure d'acheter une vache et un veau. Mais sur le chemin, Perrette fait un faux pas et laisse tomber son pot de lait. Contrairement à ce qu'elle espérait elle ne pourra donc obtenir ni veau, ni vache, ni cochon ou couvée, d'où l'expression -adieu veau, cache, cochon, couvée- qui signifie la perte des illusions.",
         "categorie":"Succès - échecs"
     },
     {
@@ -325,7 +325,7 @@
         "id": "47",
         "expression": "ad valorem",
         "signification": "Fait en fonction de la valeur des choses.",
-        "origine":"Cette locution latine, se traduit littéralement par -selon la valeur des choses-. Utilisée dans le domaine des taxes et droits douaniers, cette expression signifie que les droits à payer sont calculés en fonction de la valeur des dits biens.",
+        "origine":"Cette locution latine, se traduit littéralement par \"selon la valeur des choses\". Utilisée dans le domaine des taxes et droits douaniers, cette expression signifie que les droits à payer sont calculés en fonction de la valeur des dits biens.",
         "categorie":"Société"
     },
     {
@@ -346,35 +346,35 @@
         "id": "50",
         "expression": "A fleur de peau",
         "signification": "A la surface de la peau, au sens figuré signifie réagir à la plus petite sollicitation.",
-        "origine":"Lorsque l'on s'intéresse de plus près aux origines du mot fleur présent dans cette expression, on se rend compte qu'il vient du latin *florem*. Il a un autre sens qui désignait -la meilleure partie d'une chose-. C'est de là que découle l'expression -à fleur de- pour dire -à la surface de-.Par ailleurs, pour comprendre le sens figuré -réagir à la plus petite sollicitation- on peut se pencher sur le domaine des relations entre hommes et femmes. En effet, chez l'homme la main d'une femme posée sur le corps peut provoquer la chair de poule. Dans ce cas on a un contact léger qui produit une réaction immédiate. C'est par analogie à cette situation que l'on dit qu'une personne a une sensibilité -à fleur de peau-. En d'autres termes il est susceptible de réagir de manière brutale à ce qu'il peut prendre pour une agression.",
+        "origine":"Lorsque l'on s'intéresse de plus près aux origines du mot fleur présent dans cette expression, on se rend compte qu'il vient du latin \"florem\". Il a un autre sens qui désignait \"la meilleure partie d'une chose\". C'est de là que découle l'expression \"à fleur de\" pour dire \"à la surface de\".Par ailleurs, pour comprendre le sens figuré \"réagir à la plus petite sollicitation\" on peut se pencher sur le domaine des relations entre hommes et femmes. En effet, chez l'homme la main d'une femme posée sur le corps peut provoquer la chair de poule. Dans ce cas on a un contact léger qui produit une réaction immédiate. C'est par analogie à cette situation que l'on dit qu'une personne a une sensibilité \"à fleur de peau\". En d'autres termes il est susceptible de réagir de manière brutale à ce qu'il peut prendre pour une agression.",
         "categorie":""
     },
     {
         "id": "51",
         "expression": "A fleurets mouchetés",
         "signification": "Qui n'est pas méchante, qui ne vise pas à blesser.",
-        "origine":"Le fleuret est une épée que l'on utilise pour s'exercer à l'escrime. Il est fait de telle manière qu'il est inoffensif. En effet, pour éviter que le fleuret soit une véritable arme on lui a mis à la pointe une forme de protection appelée mouche. Donc, lorsque l'on attaque quelqu'un avec un fleuret ce n'est pas pour le blesser. De la même manière l'expression -A fleurets mouchetés- renvoie à la même idée.",
+        "origine":"Le fleuret est une épée que l'on utilise pour s'exercer à l'escrime. Il est fait de telle manière qu'il est inoffensif. En effet, pour éviter que le fleuret soit une véritable arme on lui a mis à la pointe une forme de protection appelée mouche. Donc, lorsque l'on attaque quelqu'un avec un fleuret ce n'est pas pour le blesser. De la même manière l'expression \"A fleurets mouchetés\" renvoie à la même idée.",
         "categorie":""
     },
     {
         "id": "52",
         "expression": "À foison",
         "signification": "En abondance, en grande quantité.",
-        "origine":"Locution adverbiale qui date du XIIe siècle. *Foison* vient du latin *fusio* qui signifie *écoulement, action de répandre*, d'où la notion d'abondance, de grande quantité dans l'expression *à foison*.",
+        "origine":"Locution adverbiale qui date du XIIe siècle. \"Foison\" vient du latin \"fusio\" qui signifie \"écoulement, action de répandre\", d'où la notion d'abondance, de grande quantité dans l'expression \"à foison\".",
         "categorie":"Jugement"
     },
     {
         "id": "53",
         "expression": "A fond les ballons",
         "signification": "A toute vitesse.",
-        "origine":"Cette expression est tirée de l'expression originelle *à fond de train*, née au XIXe. Ballon prend alors le sens de train dans sa signification argotique, c'est-à-dire le postérieur d'une personne.",
+        "origine":"Cette expression est tirée de l'expression originelle \"à fond de train\", née au XIXe. Ballon prend alors le sens de train dans sa signification argotique, c'est-à-dire le postérieur d'une personne.",
         "categorie":"Fuite"
     },
     {
         "id": "54",
         "expression": "A force de crier au loup",
         "signification": "A force de donner de fausses alertes, la véritable alerte devient inutile.",
-        "origine":"Dans cette expression on comprend aisément que le loup est associé au danger. En effet, *crier au loup* signifie *alerter d'un danger*. L'idée véhiculée par cette expression se retrouve des siècles avant J.C dans une fable d' Esope; *le garçon qui criait au loup*. Dans cette fable, le jeune berger avait pris l'habitude de crier tout le temps *au loup* pour se faire secourir par les villageois alors qu'il ne courait aucun danger. Mais quand le loup commença vraiment à attaquer son troupeau, il cria au secours en vain.",
+        "origine":"Dans cette expression on comprend aisément que le loup est associé au danger. En effet, \"crier au loup\" signifie \"alerter d'un danger\". L'idée véhiculée par cette expression se retrouve des siècles avant J.C dans une fable d' Esope; \"le garçon qui criait au loup\". Dans cette fable, le jeune berger avait pris l'habitude de crier tout le temps \"au loup\" pour se faire secourir par les villageois alors qu'il ne courait aucun danger. Mais quand le loup commença vraiment à attaquer son troupeau, il cria au secours en vain.",
         "categorie":""
     },
     {
@@ -416,35 +416,35 @@
         "id": "60",
         "expression": "A gogo",
         "signification": "Beaucoup, abondamment.",
-        "origine":"Cette expression remonte au XVème siècle. Gogo est la répétition de *go* qui vient du mot *gogue* qui signifiait *réjouissance, liesse*. De nos jours l'expression *A gogo* se dit d'une chose plaisante dont on dispose en abondance.",
+        "origine":"Cette expression remonte au XVème siècle. Gogo est la répétition de \"go\" qui vient du mot \"gogue\" qui signifiait \"réjouissance, liesse\". De nos jours l'expression \"A gogo\" se dit d'une chose plaisante dont on dispose en abondance.",
         "categorie":""
     },
     {
         "id": "61",
         "expression": "À grand-peine",
         "signification": "Avec beaucoup de difficultés, péniblement, ou bien difficilement.",
-        "origine":"La peine, dans l'expression *à grand-peine*, s'entend ici dans le sens de la difficulté et marque par conséquent un élément d'effort et peut-être même de résilience.",
+        "origine":"La peine, dans l'expression \"à grand-peine\", s'entend ici dans le sens de la difficulté et marque par conséquent un élément d'effort et peut-être même de résilience.",
         "categorie":"Difficultés"
     },
     {
         "id": "62",
         "expression": "À grands frais",
         "signification": "En dépensant beaucoup ou en faisant beaucoup d'efforts.",
-        "origine":"Le mot *frais* vient de l'ancien français *frait* et du bas latin *fredum* qui désignait une amende payée par celui qui avait troublé la paix publique. Par extension, le mot a fini par être utilisé pour désigner une dépense d'argent ou d'énergie.",
+        "origine":"Le mot \"frais\" vient de l'ancien français \"frait\" et du bas latin \"fredum\" qui désignait une amende payée par celui qui avait troublé la paix publique. Par extension, le mot a fini par être utilisé pour désigner une dépense d'argent ou d'énergie.",
         "categorie":"Argent"
     },
     {
         "id": "63",
         "expression": "À hue et à dia",
         "signification": "De façon incohérente ou contradictoire.",
-        "origine":"Cette expression remonte au XIXe siècle. Elle s'inspire des cris des charretiers à leurs bêtes : *hue* signifie *en avant* et *dia* signifie *à gauche*. A hue et à dia veut donc dire littéralement faire avancer dans deux directions différentes, et l'expression sert aujourd'hui à désigner un comportement erratique ou incohérent.",
+        "origine":"Cette expression remonte au XIXe siècle. Elle s'inspire des cris des charretiers à leurs bêtes : \"hue\" signifie \"en avant\" et \"dia\" signifie \"à gauche\". A hue et à dia veut donc dire littéralement faire avancer dans deux directions différentes, et l'expression sert aujourd'hui à désigner un comportement erratique ou incohérent.",
         "categorie":"Jugement"
     },
     {
         "id": "64",
         "expression": "A huis clos",
         "signification": "Discrètement, toutes portes fermées.",
-        "origine":"Le mot *us* du latin *ustium*, apparu en 1050, donnera par la suite *huis* qui signifie porte. L'expression *A huis clos* apparaît au XVIème siècle pour dire à porte fermée. Par extension, elle signifie aussi *sans publicité*, en d'autres termes, sans aucune personne extérieure au groupe pour assister à ce qui se dit.",
+        "origine":"Le mot \"us\" du latin \"ustium\", apparu en 1050, donnera par la suite \"huis\" qui signifie porte. L'expression \"A huis clos\" apparaît au XVIème siècle pour dire à porte fermée. Par extension, elle signifie aussi \"sans publicité\", en d'autres termes, sans aucune personne extérieure au groupe pour assister à ce qui se dit.",
         "categorie":""
     },
     {
@@ -453,6 +453,426 @@
         "signification": "Spectacle qui se joue alors que toutes les places ont déjà été vendues.",
         "origine":"Cette expression s'utilise dans le langage artistique. Jouer à guichet fermé signifie que toutes les places d'un spectacle ont été préalablement louées, qu'il n'y a plus de disponibilité pour cette représentation. C'est une preuve du succès de la manifestation.",
         "categorie":"Culture"
+    },
+    {
+        "id": "66",
+        "expression": "A huis clos",
+        "signification": "Discrètement, toutes portes fermées.",
+        "origine":"Le mot \"us\" du latin \"ustium\", apparu en 1050, donnera par la suite \"huis\" qui signifie porte. L'expression \"A huis clos\" apparaît au XVIème siècle pour dire à porte fermée. Par extension, elle signifie aussi \"sans publicité\", en d'autres termes, sans aucune personne extérieure au groupe pour assister à ce qui se dit.",
+        "categorie":"Culture"
+    },
+    {
+        "id": "67",
+        "expression": "Aiguiser le regard",
+        "signification": "Exercer le coup d'œil, la vision.",
+        "origine":"",
+        "categorie":""
+    },
+    {
+        "id": "68",
+        "expression": "Air altier",
+        "signification": "Allure fière, voire, orgueilleuse.",
+        "origine":"",
+        "categorie":""
+    },
+    {
+        "id": "69",
+        "expression": "Ainsi qu'il appartiendra",
+        "signification": "Selon ce qui est convenable. Traduction anglais : as the law states.",
+        "origine":"",
+        "categorie":"Divers"
+    },
+    {
+        "id": "70",
+        "expression": "Aimer la bouteille",
+        "signification": "Avoir des problèmes d'alcoolisme, aimer la sensation d'ivresse. Traduction en anglais : to be fond of the bottle.",
+        "origine":"",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "71",
+        "expression": "Aiguiser l'esprit",
+        "signification": "Affiner le caractère, la mentalité.",
+        "origine":"",
+        "categorie":""
+    },
+    {
+        "id": "72",
+        "expression": "Air espiègle",
+        "signification": "Malicieux et vif, sans pour autant être méchant.",
+        "origine":"",
+        "categorie":""
+    },
+    {
+        "id": "73",
+        "expression": "À jour",
+        "signification": "En règle, actualisé.",
+        "origine":"Cette locution est utilisée pour désigner que quelque chose correspond à l'état de ce jour, à l'état actuel du savoir, du progrès ou des derniers développements par exemple. Par extension, la locution a donné naissance à l'expression  \"mise à jour \".",
+        "categorie":"Intentions"
+    },
+    {
+        "id": "74",
+        "expression": "Ajuster les rênes",
+        "signification": "Faire en sorte de maîtriser une situation.",
+        "origine":"Empruntée au domaine hippique, cette expression exprimait dès le XIIIe siècle, l'idée d'ajuster les rênes du cheval pour que le contact avec sa bouche soit idéal. Sa signification s'est ensuite élargie, puis imagée. Elle est aujourd'hui employée avec l'idée de maîtriser une situation le mieux possible.",
+        "categorie":"Succès - échecs"
+    },
+    {
+        "id": "75",
+        "expression": "Ajuster son tir",
+        "signification": "Mettre une action en place pour atteindre son but.",
+        "origine":"Empruntée au stand de tir, cette expression est utilisée dès le début du XXe siècle. Elle reflète l'idée de régler son tir pour qu'il atteigne son objectif. Aujourd'hui, on l'emploie également pour exprimer l'action de frapper juste, de faire ce qu'il faut pour arriver à son but.",
+        "categorie":"Succès - échecs"
+    },
+    {
+        "id": "76",
+        "expression": "A juste titre",
+        "signification": "De manière justifiée, avec un motif légitime.",
+        "origine":"Expression qui s'emploie pour appuyer un raisonnement, une explication et exprimer le fait que l'on donne son soutien. Cette expression entre dans le registre du langage courant et se retrouve davantage dans un contexte écrit mais s'il n'est pas impossible de l'entendre à l'oral.",
+        "categorie":"Parole"
+    },
+    {
+        "id": "77",
+        "expression": "A la bonne franquette",
+        "signification": "Simplement, sans complications, sans chichi, comme à la maison.",
+        "origine":"Le mot \"franquette\" est tiré de  \"franc\" d’origine normande et picarde. Au XVIIème siècle, on disait  \"à la franquette \" qui signifiait  \"en toute franchise \". Par la suite, cette franchise s’est transformée progressivement pour signifier simplicité. La forme actuelle de l’expression est apparue au XVIIIème siècle.",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "78",
+        "expression": "A la bonne heure !",
+        "signification": "Tant mieux, parfait.",
+        "origine":"Cette expression apparaît pour la première fois au XIVème siècle sous la forme  \"à bonne heure \", elle véhicule alors l'idée d'une notion précise du temps. Par la suite, au XVIème siècle elle évolue et prend le sens de  \"au moment propice \" en opposition à  \"à la male heure \" qui signifiait  \"au mauvais moment \". Par ailleurs, entre le XVème et le XVIIIème siècle cette expression a été utilisée pour signifier  \"heureusement \". Toutefois, le sens d'approbation et d'assentiment pris par cette expression reste inexpliqué.",
+        "categorie":"Temps Qui Passe"
+    },
+    {
+        "id": "79",
+        "expression": "À la bonne vôtre",
+        "signification": "\"A votre santé\", pour trinquer.",
+        "origine":"Il s'agit d'une expression qui vient directement d'une ellipse de l'expression  \"à votre bonne santé\". L'article  \"la\" est utilisé pour remplacer le mot  \"santé\". Cette expression n'est plus utilisée (ou presque plus) aujourd'hui.",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "80",
+        "expression": "À la brune",
+        "signification": "Au soir, au crépuscule, à la tombée de la nuit.",
+        "origine":"Expression qui entre dans le registre du langage vieilli et qui n'est presque plus usitée de nos jours. Elle s'emploie pour désigner la nuit ou le crépuscule. Le mot brune fait référence à l'obscurité de la nuit, à l'absence de lumière.",
+        "categorie":"Parole"
+    },
+    {
+        "id": "81",
+        "expression": "A la charge de quelqu'un",
+        "signification": "Eléments devant être réglés par la personne désignée. Traduction anglais : to be payable by somebody, to be liable for something.",
+        "origine":"",
+        "categorie":"Aide"
+    },
+    {
+        "id": "82",
+        "expression": "A la clef",
+        "signification": "Qui est la suite ou conséquence directe de ce que l'on a fait précédemment.",
+        "origine":"Cette expression remonte au XIXe siècle. En musique, plus précisément dans le solfège, on sait que la présence des clés de fa de sol et d'ut en début de portée influe sur les notes qui suivent. Ainsi, les notes sont jouées en fonction des clés qui sont placées en début de portée pour éviter de faire une mauvaise prestation qui pourrait déplaire au chef d'orchestre. On peut déduire aisément le sens de l'expression  \"à la clef \" à partir de cette situation.",
+        "categorie":""
+    },
+    {
+        "id": "83",
+        "expression": "À la croisée des chemins",
+        "signification": "Au moment de faire un choix.",
+        "origine":"Le terme  \"croisée \" est utilisé dès le Moyen Age pour désigner un point d'intersection, un lieu où des routes se croisent. Dans cette expression, il est employé dans un sens figuratif pour évoquer un moment où une personne doit faire un choix, le plus souvent délicat.",
+        "categorie":"Conflit"
+    },
+    {
+        "id": "84",
+        "expression": "À la discrétion de quelqu’un",
+        "signification": "A la disposition de quelqu’un, soumis au bon vouloir d’une personne.",
+        "origine":"Lorsque le mot discrétion apparaît au XVIIème siècle il signifie  \"discernement\", du latin  \"discretio\". Lorsqu’on est à la merci de quelqu’un, on suppose qu’il aura assez de discernement pour ne pas en abuser. Exemple :  \"Je laisse ce dossier à votre discrétion\".",
+        "categorie":"Confiance"
+    },
+    {
+        "id": "85",
+        "expression": "À la garçonne",
+        "signification": "Comme un garçon.",
+        "origine":"L'origine du mot garçonne est toute simple : c'est le féminin du mot garçon. Mot apparu à la fin du XIXe siècle, mais devenu courant durant les années folles aux alentours de 1920. Il qualifie alors un courant de mode et de vie prônant l'émancipation de la femme et l'égalité des sexes. Le roman La Garçonne de Victor Margueritte à popularisé ce mot lors de sa parution en 1922.",
+        "categorie":"Apparences"
+    },
+    {
+        "id": "86",
+        "expression": "À la fortune du pot",
+        "signification": "Sobrement, sans cérémonie.",
+        "origine":"Cette expression fait référence au pot dans lequel on cuisait le plat familial au XVIIIe siècle. Le visiteur qui venait à l'improviste mangeait donc un plat simple, sans prétention. L'expression signifie donc à la bonne franquette, de manière simple.",
+        "categorie":"Manger - Boire"
+    },
+    {
+        "id": "87",
+        "expression": "À la guerre comme à la guerre",
+        "signification": "Faire avec ce que l'on a, ne pas avoir le choix.",
+        "origine":"Expression datant du XVIIe siècle. En temps de guerre, les ressources et moyens sont très souvent limités et il faut faire avec le peu de moyens disponibles pour les tâches de la vie courante. Donc, en cas de situations critiques, il faut faire avec ce qui disponible et ne pas compter sur une aide extérieure.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "88",
+        "expression": "Au doigt mouillé",
+        "signification": "Au hasard, approximativement.",
+        "origine":"On ne peut dater à ce jour l'origine de cette expression. Elle vient du vocabulaire maritime où, lorsque les instruments de mesure n'existaient pas, les marins mouillaient leur doigt et le levaient en l'air pour connaître le sens du vent (le côté du doigt refroidi indiquait ainsi d'où venait la bise). Mais cette méthode est hasardeuse.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "89",
+        "expression": "A la louche",
+        "signification": "Environ, approximativement, à peu près ou en grandes quantités.",
+        "origine":"Expression qui fait partie du langage courant et qui s'emploie pour désigner une grande quantité ou quelque chose d'approximatif. Elle fait référence à la grande cuillère que l'on utilisait pour servir une grosse quantité et qui, n'étant pas graduée, servait une quantité approximative.",
+        "categorie":"Parole"
+    },
+    {
+        "id": "90",
+        "expression": "À la minute",
+        "signification": "Rapidement.",
+        "origine":"Locution adverbiale utilisée pour signifier  \"à l'instant \" ou encore  \"sans attendre \". Elle tire son origine du terme latin  \"minuta \" qui désigne une  \"chose menue \". Aujourd'hui, le terme minute signifie  \" la soixantième partie d'une heure  \". Accompagné d'un pronom  \"à \", le mot est utilisé comme complément de temps pour évoquer un laps de temps très court ou très proche dans le temps.",
+        "categorie":"Parole"
+    },
+    {
+        "id": "91",
+        "expression": "A la mords-moi le doigt",
+        "signification": "Mal fait, qui manque de sérieux.",
+        "origine":"Dans cette expression le mot doigt désigne le pénis. En réalité, il s'agit d'un euphémisme pour ne pas tomber dans le vulgaire. Cette expression est utilisée depuis le XXème siècle.",
+        "categorie":""
+    },
+    {
+        "id": "92",
+        "expression": "A la mords-moi le jonc",
+        "signification": "Maladroit, qui n'est pas crédible.",
+        "origine":"Les origines de cette expression restent floues. Mais l'expression est attestée depuis le XXe siècle. A l'époque le jonc signifiait  \"or \" en langage argotique. Il semblerait que l'expression ait un lien avec de fausses pièces d'or, mal faites, mais ce n'est pas certain.",
+        "categorie":""
+    },
+    {
+        "id": "93",
+        "expression": "A la mords-moi le noeud",
+        "signification": "Se dit d'une chose mal conçue, peu crédible ou stupide.",
+        "origine":"Cette expression dérive de à la mords-moi le jonc datant du début du XXe. Le jonc était le mot argotique pour or : on mordait les pièces d'or pour contrôler leur authenticité. Mais le jonc est également un mot familier pour pénis tout comme noeud au XIXe. L'expression à la mords-moi le noeud est rapidement préférée à partir des années 1950.",
+        "categorie":"Société"
+    },
+    {
+        "id": "94",
+        "expression": "A la mords-moi le pif",
+        "signification": "Qui n'est pas sérieux, sur lequel on ne peut pas faire reposer son espoir.",
+        "origine":"Pif est un mot  \"politiquement correct \" servant à désigner le pénis. Son origine n'est pas connue.  \" A la mords moi le pif \" renvoie à une chose qui est mal faite. En effet, lors de la petite gâterie, s'il y a morsure du gland c'est qu'elle est mal faite.",
+        "categorie":""
+    },
+    {
+        "id": "95",
+        "expression": "A l'aise blaise",
+        "signification": "Facilement.",
+        "origine":"Cette expression apparaît au XIIe siècle en se limitant à  \"à l'aise \", pour signifier qu'on a obtenu une chose sans se donner de mal. Blaise a été rajouté dans les années 70 par souci d'assonance.",
+        "categorie":"Chance"
+    },
+    {
+        "id": "96",
+        "expression": "À la loupe",
+        "signification": "De manière précise, espionner, surveiller.",
+        "origine":"L'origine de cette expression tient de la loupe, objet avec un verre convexe des deux côtés permettant de grossir les éléments. L'expression suggère donc le grossissement d'un élément ou la surveillance pointue de quelque chose ou de quelqu'un.",
+        "categorie":"état D'esprit"
+    },
+    {
+        "id": "97",
+        "expression": "A la one again",
+        "signification": "Qui ne veut strictement rien dire, incohérent, improbable, réalisé avec négligence.",
+        "origine":"Cette expression inventée dans les années 1990, composée des mots anglais  \"one \" et  \"again \", est une tournure familière, entrée dans le langage des jeunes générations. Elle désigne un fait accompli dans la négligence ou incohérent. On la retrouve entre autres dans les sketchs de l'humoriste Franck Duboscq.",
+        "categorie":"Société"
+    },
+    {
+        "id": "98",
+        "expression": "Advienne que pourra",
+        "signification": "La décision est prise, peu importe ce qu'il se passe ensuite.",
+        "origine":"Dérivée de la formule Fais ce que tu dois, advienne que pourra, elle-même issue de la formule latine alea jacta est signifiant littéralement les dés sont jetés. Remontant à l'Antiquité, cette expression marque une certaine fatalité : on s'en remet aux Dieux pour nous protéger des conséquences.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "99",
+        "expression": "À la va comme je te pousse",
+        "signification": "Sans direction particulière.",
+        "origine":"Cette expression traduit un désordre certain, une quête sans but. On établit souvent un parallèle avec le fait de se laisser porter par le vent, comme en bateau. On se laisse pousser, pour voir où cela mène.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "100",
+        "expression": "Aller à la pêche",
+        "signification": "Chercher quelque chose au hasard, sans plan précis.",
+        "origine":"Cette expression, de registre familier, est synonyme de chercher quelque chose perdu au milieu d'autres choses. La similarité avec la pêche et du petit poisson capturé au beau milieu d'une grande étendue d'eau, justifie que l'expression se soit répandue.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "101",
+        "expression": "A ses risques et périls",
+        "signification": "En connaissant toutes les conséquences, bonnes ou mauvaises.",
+        "origine":"Cette expression semble attestée depuis la seconde moitié du XIXe siècle. Elle s'emploie dans le langage courant pour désigner que l'on prend en compte toutes les conséquences possibles d'un acte.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "102",
+        "expression": "Au débotté",
+        "signification": "À l'improviste.",
+        "origine":"Le mot « débotté » qualifie simplement la personne qui vient d'enlever ses bottes, une fois rentrée chez elle. Mais si quelqu'un arrive à l'improviste et frappe à la porte à ce moment-là, alors la personne ira lui ouvrir sans ses bottes : elle sera donc « débottée ».",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "103",
+        "expression": "Au fil de l'eau",
+        "signification": "Progressivement, sans se presser.",
+        "origine":"Expression venant du mot latin filium utilisée dès l'Antiquité pour caractériser le caractère aléatoire d'une décision qui, portée tranquillement par le courant, peut amener à un échec ou à une réussite. De nos jours, cette dernière partie d'expression a été un peu oubliée.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "104",
+        "expression": "Au petit bonheur la chance",
+        "signification": "Au hasard.",
+        "origine":"Dans « bonheur », on retrouve le mot désuet « heur », qui signifiait « hasard » ou « chance ». Ajouter « petit » avant permet de conjurer le sort en se souhaitant « bonne chance », même si ce n'est qu'un petit peu. Le fait d'ajouter « chance » une seconde fois vient renforcer le souhait de départ.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "105",
+        "expression": "Avoir un atout sec",
+        "signification": "Disposer d'une seule carte d'une couleur donnée.",
+        "origine":"Expression récente utilisée lors des jeux de cartes (comme la belote) où les atouts correspondent à une couleur déterminée à l'avance par les joueurs. Le mot \"sec\" doit être compris ici dans le sens de \"non accompagné\".",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "106",
+        "expression": "Belote et rebelote",
+        "signification": "Encore et encore.",
+        "origine":"Belote et rebelote provient du jeu de cartes de la belote où le joueur doit crier belote et rebelote quand il abat un roi et une dame. L'expression est née en même temps que la belote au début du XXe siècle.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "107",
+        "expression": "C'est de famille",
+        "signification": "Dont on a hérité de ses ascendants, spirituellement ou physiquement.",
+        "origine":"En disant que c'est de famille, on signifie qu'on ne peut pas empêcher certains héritages, qu'ils soient physiques ou intellectuels, qu'on ne peut pas lutter contre ceux-ci. Cette expression coupe court à toute tentative de changement.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "108",
+        "expression": "C'est le jeu ma pauvre Lucette",
+        "signification": "C'est comme ça, les règles sont ainsi et on ne peut pas les changer.",
+        "origine":"Expression récente issue d'une publicité télévisée de la Française des jeux diffusée au cours des années 2000, mettant l'accent sur le rêve d'évasion et l'humour.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "109",
+        "expression": "Choisir à pile ou face",
+        "signification": "Choisir au hasard.",
+        "origine":"Dans l'Antiquité, les pièces étaient gravées sur une face du visage de Janus, et sur l'autre du navire qui l'avait amené en Italie. Cependant l'Église fit vite remplacer Janus par une croix, le revers devenant la \"pila\". Au XIIIe siècle, ce terme symbolisait en latin médiéval la marque du coin qui servait à frapper les monnaies. On disait alors \"croix ou pile\". Plus tard, après le règne de François Ier, on décida de faire réapparaître un visage sur les pièces. Aujourd'hui encore, jouer à \"pile ou face\" signifie qu'on laisse une décision se prendre au hasard, en fonction de la face de la pièce qui apparaîtra après qu'on l'ait lancée.",
+        "categorie":""
+    },
+    {
+        "id": "110",
+        "expression": "Comme par hasard",
+        "signification": "Faire semblant d'être surpris.",
+        "origine":"Si elle est utilisée de nos jours dans un sens sarcastique, cette expression était autrefois employée dans un sens littéral pour signifier un fait purement fortuit. Elle provient de Hos tunkhanei, une locution en grec ancien signifiant comme cela se trouve, au hasard.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "111",
+        "expression": "Contre toute attente",
+        "signification": "Alors qu'on ne s'y attendait pas.",
+        "origine":"Cette expression témoigne d'un renversement de situation inattendu, auquel on ne s'attend pas du tout, particulièrement lorsqu'on s'attend à une issue totalement contraire. Certaines situations semblent inéluctables, le fait qu'elles soient inversées est un cas que l'on n'attendait pas.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "112",
+        "expression": "Corriger la fortune",
+        "signification": "S'emploie lorsqu'un joueur triche avec discrétion, sans se faire remarquer.",
+        "origine":"",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "113",
+        "expression": "et des brouettes",
+        "signification": "Utilisé pour arrondir une quantité.",
+        "origine":"La brouette permettait de transporter des matériaux d'un point à un autre. Sa contenance était assez variable. On l'utilisait pour apporter un complément à une quantité donnée, ce qui a donné l'expression.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "114",
+        "expression": "Jouer à quitte ou double",
+        "signification": "Choisir entre abandonner la partie ou miser tout ce que l'on possède, au risque de tout perdre. Au sens figuré : Choisir entre éviter un danger ou affronter ce danger, la situation pouvant s'améliorer ou empirer.",
+        "origine":"Cette expression vient directement de l'univers des jeux de hasard. Un joueur se retrouve tôt ou tard à faire ce choix : arrêter de jouer et empocher ses gains, ou continuer et laisser faire le hasard.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "115",
+        "expression": "Jouer aux devinettes",
+        "signification": "S'amuser à poser différentes énigmes ou devinettes auxquelles il faut répondre. Traduction anglais : Guessing.",
+        "origine":"",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "116",
+        "expression": "Le monde est petit",
+        "signification": "Se dit quand on croise par hasard quelqu'un que l'on connaît.",
+        "origine":"Cette expression très usuelle dans le langage français fait référence au fait que l'on peut rencontrer une connaissance par hasard, dans un lieu souvent inattendu. Elle s'emploie depuis la fin du XIXe siècle.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "117",
+        "expression": "Les dés sont jetés",
+        "signification": "Fait de ne plus pouvoir modifier quoi que ce soit à une situation. Traduction en anglais : The die is cast. Proche de l'expression : les carottes sont cuites.",
+        "origine":"Le 10 janvier de l'an 49 avant J.-C., Jules César aurait dit \"Alea Jacta Est\" au moment où il s'apprêtait à traverser le fleuve Rubicon. Cette phrase latine signifie \"le sort en est jeté\" ou \"le dé est jeté\", transformé ensuite en l'expression \"les dés sont jetés\".",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "118",
+        "expression": "Les murs ont des oreilles",
+        "signification": "Une conversation privée risque d'être entendue.",
+        "origine":"Cette expression est apparue vers 1622 sous la forme \"les murailles ont des oreilles\". En 1627, les \"murailles\" ont été remplacées par des \"parois\" pour en arriver à la forme actuelle vers 1690. Elle signifie qu'une conversation risque d'être entendue et de causer des ennuis à ses auteurs. Il s'agit alors de donner le sens de l'ouïe à des pierres, ce qui est tout à fait extravagant. Cependant, on utilise également cette expression dans un sens plus figuré lorsque deux personnes discutent en privé, mais avec des gens autour d'eux. Même si ceux-ci semblent occupés et ne pas prêter attention à la conversation, il peut arriver que les interlocuteurs se sentent gênés par cette présence, car \"les murs ont des oreilles\". Autrement dit, ces personnes qui semblent ne pas écouter peuvent tout de même entendre quelques bribes de la conversation, brisant ainsi la confidentialité de l'entretien.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "119",
+        "expression": "Les paris sont ouverts",
+        "signification": "Affaire incertaine qui doit se décanter dans les plus brefs délais et qui est soumise à de nombreuses hypothèses émanant de nombreuses personnes.",
+        "origine":"Locution-phrase qui renvoie au fait qu'une situation peut prendre différentes tournures et que plusieurs personnes spéculent sur son issue, qui doit survenir rapidement.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "120",
+        "expression": "Par l'opération du Saint Esprit",
+        "signification": "De façon inexplicable. De manière mystérieuse.",
+        "origine":"Cette expression datant du XVIe siècle, souvent employée de façon ironique, est une référence directe à la Bible. Celle-ci conte l'histoire de Marie, qui aurait porté Jésus, fils de Dieu, sans qu'il n'y ait eu fécondation. Ce serait tout simplement Dieu qui aurait mis cet enfant en elle. Aujourd'hui, on dit que quelque chose s'est effectué \"par l'opération du Saint Esprit\" lorsqu'il est arrivé de façon inexplicable, voir miraculeuse. On emploie en général cette expression de manière ironique ou bien pour marquer son scepticisme.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "121",
+        "expression": "Rouler en roue libre",
+        "signification": "Utiliser le mécanisme permettant au cycliste de ne pas avoir à pédaler tout le temps sans pour autant que les mouvements du pignon ne s'arrêtent. Traduction anglais : coasting. Cette expression peut également signifier : faire avancer une voiture sans enclencher de vitesse (en descente notamment). Traduction anglais : coasting.",
+        "origine":"",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "122",
+        "expression": "Se trouver nez à nez",
+        "signification": "Rencontrer quelqu'un par hasard.",
+        "origine":"Se retrouver nez à nez avec quelqu'un signifie que l'on est face à face. Toutefois dans cette expressions, les termes \"se retrouver\" et \"nez à nez\" expriment une notion de soudaineté et de surprise.",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "123",
+        "expression": "Tirer à la courte paille",
+        "signification": "Tirer au sort à l'aide de brins d'herbes séchées de différentes longueurs. Synonyme : tirer au sort. Traduction anglais : draw lots.",
+        "origine":"",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "124",
+        "expression": "Tous azimuts",
+        "signification": "Dans tous les sens et par toutes les manières.",
+        "origine":"Le mot \"azimut\" provient du mot arabe \"az-samt\" qui signifie chemin au XVème siècle. Il a pour origine l'astronomie et signifie actuellement l'angle horizontal entre le sens d'un objet et une direction de base .",
+        "categorie":"Hasard"
+    },
+    {
+        "id": "125",
+        "expression": "Vogue la galère",
+        "signification": "Laisser faire le cours des choses.",
+        "origine":"Apparue vers 1450-1500 dans la Farce de Maître Mimin, cette expression symbolise l'image de la galère, ancien bateau transportant des esclaves, qui va sur l'eau. Elle désigne une attitude assez fataliste qui signifie qu'il faut laisser arriver ce qui doit arriver. Il faut laisser le destin jouer son rôle.",
+        "categorie":"Hasard"
     }
 
 ]
