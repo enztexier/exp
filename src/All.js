@@ -9,6 +9,7 @@ const All = () => {
     const [indexArray, setIndexArray] = useState(0);
     const [history, setHistory] = useState([]);
     const [single, setSingle] = useState('');
+    const [anim, setAnim] = useState(true)
 
     let indexRandom = 0;
 
@@ -25,6 +26,8 @@ const All = () => {
     }, []);
 
     function nextQuote() {
+
+        setAnim(true)
 
         if (exp.length === history.length && exp.length === (indexArray)) {
             setIndexArray(indexArray + 1);
@@ -52,6 +55,8 @@ const All = () => {
 
     let prevQuote = () => {
 
+        setAnim(false)
+
         if (indexArray > 1) {
             setSingle(history[indexArray - 2]);
             setIndexArray(indexArray - 1);
@@ -67,22 +72,22 @@ const All = () => {
             <Link to="/">HOME</Link>
             <h1>ALL</h1>
 
-
-
             {exp.length === history.length && indexArray > history.length ?
                 <h1>FINITO</h1>
                 :
-                <div className='card'>
-                    <div className='front'>
-                        <div className='contents'>
-                            <h2 className='title' key={single.id}>{single.expression}</h2>
+                <div className = {anim ? 'animation-next' : 'animation-prev'}>
+                    <div className='card'>
+                        <div className='front'>
+                            <div className='contents'>
+                                <h2 className='title' key={single.id}>{single.expression}</h2>
+                            </div>
                         </div>
-                    </div>
-                    <div className='back'>
-                        <div className='contents'>
-                            <h3 className='subtitle'>{single.signification}</h3>
-                            <h4>{single.origine}</h4>
+                        <div className='back'>
+                            <div className='contents'>
+                                <h3 className='subtitle'>{single.signification}</h3>
+                                <h4>{single.origine}</h4>
 
+                            </div>
                         </div>
                     </div>
                 </div>

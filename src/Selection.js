@@ -15,6 +15,7 @@ const Selection = () => {
     const [indexArray, setIndexArray] = useState(0);
     const [history, setHistory] = useState([]);
     const [single, setSingle] = useState('');
+    const [card, setCard] = useState('');
 
     let indexRandom = 0;
 
@@ -75,6 +76,7 @@ const Selection = () => {
             {exp.length === history.length && indexArray > history.length ?
                 <h1>FINITO</h1>
                 :
+
                 <div className='card'>
                     <div className='front'>
                         <div className='contents'>
@@ -85,7 +87,6 @@ const Selection = () => {
                         <div className='contents'>
                             <h3 className='subtitle'>{single.signification}</h3>
                             <h4>{single.origine}</h4>
-
                         </div>
                     </div>
                 </div>
