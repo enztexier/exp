@@ -7,7 +7,7 @@ const Home = () => {
             <h1>HOME</h1>
             <nav>
                 <Link to="/category">cat</Link>
-                <Link to="/all">ALL</Link>
+                <Link to="/all">START !</Link>
             </nav>
         </div>
     );

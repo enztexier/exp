@@ -9,7 +9,7 @@ const All = () => {
     const [indexArray, setIndexArray] = useState(0);
     const [history, setHistory] = useState([]);
     const [single, setSingle] = useState('');
-    const [anim, setAnim] = useState(true)
+    const [anim, setAnim] = useState(0);
 
     let indexRandom = 0;
 
@@ -27,7 +27,7 @@ const All = () => {
 
     function nextQuote() {
 
-        setAnim(true)
+        setAnim(1)
 
         if (exp.length === history.length && exp.length === (indexArray)) {
             setIndexArray(indexArray + 1);
@@ -55,7 +55,7 @@ const All = () => {
 
     let prevQuote = () => {
 
-        setAnim(false)
+        setAnim(2)
 
         if (indexArray > 1) {
             setSingle(history[indexArray - 2]);
@@ -70,34 +70,34 @@ const All = () => {
     return (
         <div>
             <Link to="/">HOME</Link>
-            <h1>ALL</h1>
+
+            <div className='btn-prev'>{indexArray > 1 && <button onClick={() => prevQuote()} >prev</button>}</div>
 
             {exp.length === history.length && indexArray > history.length ?
                 <h1>FINITO</h1>
                 :
-                <div className = {anim ? 'animation-next' : 'animation-prev'}>
-                    <div className='card'>
-                        <div className='front'>
-                            <div className='contents'>
-                                <h2 className='title' key={single.id}>{single.expression}</h2>
+                    <div className="moove" onAnimationEnd={() => setAnim(0)} anim={anim}>
+                        <div className='card'>
+                            <div className='front'>
+                                <div className='contents'>
+                                    <h2 className='title' key={single.id}>{single.expression}</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div className='back'>
-                            <div className='contents'>
-                                <h3 className='subtitle'>{single.signification}</h3>
-                                <h4>{single.origine}</h4>
+                            <div className='back'>
+                                <div className='contents'>
+                                    <h3 className='subtitle'>{single.signification}</h3>
+                                    <h4>{single.origine}</h4>
 
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+
             }
 
 
 
-
             <div>
-                {indexArray > 1 && <button onClick={() => prevQuote()}>prev</button>}
 
                 {exp.length === history.length && indexArray > history.length ? '' : <button onClick={() => nextQuote()}>next</button>}
 
@@ -111,5 +111,6 @@ export default All;
 /**
  * <h1 key={single.id}>{single.expression}</h1>
  <h1 key={single.id}>{single.signification}</h1>
-
+ className = {anim ? 'animation-next' : 'animation-prev'}
+ {`animation-entrance ${anim ? "animation-next" : ""}`}
 **/
