@@ -1,26 +1,16 @@
-.card {
-    position: relative;
-    width: 650px;
-    height: 550px;
-    margin: 1rem;
-    transform-style: preserve-3d;
-    perspective: 800px;
-}
 
 .animation-entrance {
     animation: slide-in-bottom 1s forwards;
 }
 
-.moove[anim='1']{
-    animation:
-    slide-out-top 1s forwards,
-    slide-in-bottom 0.5s 0.4s forwards;
+.moove[anim='1'] {
+    animation: slide-out-top 1s forwards, slide-in-bottom 0.5s 0.4s forwards;
+    -webkit-animation: slide-out-top 1s forwards, slide-in-bottom 0.5s 0.4s forwards;
 }
 
-.moove[anim='2']{
-    animation:
-        slide-out-bottom 1s forwards,
-        slide-in-top 0.5s 0.5s forwards;
+.moove[anim='2'] {
+    animation: slide-out-bottom 1s forwards, slide-in-top 0.5s 0.5s forwards;
+    -webkit-animation: slide-out-bottom 1s forwards, slide-in-top 0.5s 0.5s forwards;
 }
 
 @-webkit-keyframes slide-out-top {
@@ -135,8 +125,18 @@
     }
 }
 
-
-
+.card {
+    position: relative;
+    width: 60vw;
+    height: 60vh;
+    max-width: 500px;
+    max-height: 600px;
+    margin: 1rem;
+    transform-style: preserve-3d;
+    perspective: 800px;
+    z-index: 2;
+    transform: translateY(-40%)
+}
 
 .card .front,
 .card .back {
@@ -153,8 +153,10 @@
     backface-visibility: hidden;
     transform-style: preserve-3d;
     transition: transform 0.8s ease-in-out;
-    background-image: url(https://images.unsplash.com/photo-1604076850742-4c7221f3101b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80);
 }
+
+/*     background-image: url(https://images.unsplash.com/photo-1604076850742-4c7221f3101b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80);
+*/
 
 .card .front .img,
 .card .back .img {
@@ -170,12 +172,11 @@
 }
 
 .card .front {
-    background-color: #6200EA;
+    background-color: rgb(245, 122, 3);
 }
 
 .card .back {
-    background-color: #FF9E80;
-    background-image: linear-gradient(-45deg, #ff774d, #FF9E80);
+    background-color: rgb(225, 85, 9);
     transform: rotateY(180deg);
 }
 
@@ -188,7 +189,7 @@
 }
 
 .card .contents {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-align: center;
     transform: translateZ(100px);
 }
@@ -200,46 +201,115 @@
     width: 30px;
     height: 2px;
     margin: 1rem auto;
-    background: #fff;
+    background: #000000;
 }
 
 .card .contents .title {
-    font-size: 3.25em;
+    font-family: Mahone;
+    font-size: 5em;
     animation: title-anim 2s forwards;
 }
 
 @keyframes title-anim {
-    0%{
+    0% {
         opacity: 0;
     }
 
-    100%{
+    100% {
         opacity: 1;
     }
 }
 
 .card .contents .subtitle {
+    font-family: Mahone;
     font-size: 2em;
+    line-height: 1em;
+    width: auto;
 }
 
 .card .contents .text {
-    font-size: 1.125em;
+    font-family: Mahone;
+    font-size: 1.5em;
+    line-height: 1em;
 }
 
-.card .contents .socials {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-}
 
-.card .contents .socials a {
+.button {
+    background-color: #99c0ff;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
     display: inline-block;
-    margin: 0.5rem;
-    font-size: 2em;
-    color: #fff;
-    transition: transform 0.3s;
+    font-size: 56px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
-.card .contents .socials a:hover {
-    transform: translateY(-5px);
+.next-direction{
+    font-size: 50px;
+    transform: translateY(600%) scale(5);
+    z-index: 0;
+    display: inline-block;
+    cursor: crosshair;
+    font-family: Mahone;
+    line-height: 1em;
 }
+
+.back-direction{
+    font-size: 50px;
+    transform:  scale(5);
+    z-index: 0;
+    display: inline-block;
+    cursor: crosshair;
+    font-family: Mahone;
+    line-height: 1em;
+}
+
+
+/**
+
+.next-direction{
+    font-size: 50px;
+    transform: translateY(600%) scale(5);
+    z-index: 0;
+    display: inline-block;
+    cursor: crosshair;
+    font-family: Mahone;
+    line-height: 1em;
+}
+
+.back-direction{
+    font-size: 50px;
+    transform:  scale(5);
+    z-index: 0;
+    display: inline-block;
+    cursor: crosshair;
+    font-family: Mahone;
+    line-height: 1em;
+}
+
+*/
+
+
+/**
+
+.next-direction{
+    font-size: 50px;
+    transform: translateY(500%) scale(4);
+    z-index: 0;
+    display: inline-block;
+    cursor: crosshair;
+}
+
+.back-direction{
+    font-size: 50px;
+    transform:  scale(4);
+    z-index: 0;
+    display: inline-block;
+    cursor: crosshair;
+}
+
+
+*/

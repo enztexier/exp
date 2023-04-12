@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './Home.css'
 
 const Home = () => {
     return (
         <div>
-            <h1>HOME</h1>
+            <h1 className='tracking-in-expand'>EXPRESSIONS</h1>
             <nav>
-                <Link to="/category">cat</Link>
-                <Link to="/all">START !</Link>
+                <Link className='start' to="/all">START !</Link>
             </nav>
         </div>
     );
@@ -27,5 +27,6 @@ JSON STRUCTURE
         "categorie":""
     },
 
+      <Link to="/category">cat</Link>
 
  * **/

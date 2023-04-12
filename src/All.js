@@ -69,39 +69,29 @@ const All = () => {
 
     return (
         <div>
-            <Link to="/">HOME</Link>
+            <div>{indexArray > 1 ? <h2 className='back-direction' onClick={() => prevQuote()} >BACK BACK BACK<br></br>BACK BACK BACK</h2> : <h2 className='back-direction'>BACK BACK BACK<br></br>BACK BACK BACK</h2>}</div>
+            <div>{exp.length === history.length && indexArray > history.length ? <h2 className='next-direction'>NEXT NEXT NEXT<br></br>NEXT NEXT NEXT</h2> : <h2 className='next-direction' onClick={() => nextQuote()}>NEXT NEXT NEXT<br></br>NEXT NEXT NEXT</h2>}</div>
 
-            <div className='btn-prev'>{indexArray > 1 && <button onClick={() => prevQuote()} >prev</button>}</div>
 
             {exp.length === history.length && indexArray > history.length ?
                 <h1>FINITO</h1>
                 :
-                    <div className="moove" onAnimationEnd={() => setAnim(0)} anim={anim}>
-                        <div className='card'>
-                            <div className='front'>
-                                <div className='contents'>
-                                    <h2 className='title' key={single.id}>{single.expression}</h2>
-                                </div>
+                <div className="moove" onAnimationEnd={() => setAnim(0)} anim={anim}>
+                    <div className='card'>
+                        <div className='front'>
+                            <div className='contents'>
+                                <h2 className='title' key={single.id}>{single.expression}</h2>
                             </div>
-                            <div className='back'>
-                                <div className='contents'>
-                                    <h3 className='subtitle'>{single.signification}</h3>
-                                    <h4>{single.origine}</h4>
-
-                                </div>
+                        </div>
+                        <div className='back'>
+                            <div className='contents'>
+                                <h3 className='subtitle'>{single.signification}</h3>
+                                <h4 className='text'>{single.origine}</h4>
                             </div>
                         </div>
                     </div>
-
+                </div>
             }
-
-
-
-            <div>
-
-                {exp.length === history.length && indexArray > history.length ? '' : <button onClick={() => nextQuote()}>next</button>}
-
-            </div>
         </div>
     );
 };
@@ -113,4 +103,5 @@ export default All;
  <h1 key={single.id}>{single.signification}</h1>
  className = {anim ? 'animation-next' : 'animation-prev'}
  {`animation-entrance ${anim ? "animation-next" : ""}`}
+<Link to="/">HOME</Link>
 **/
